@@ -1,0 +1,18 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf Tropical_Atlantic.merged.vcf.gz
+	--out pi_window_output/Tropical_Atlantic
+	--window-pi 1000
+	--window-pi-step 1000
+
+Using zlib version: 1.2.11
+Warning: Expected at least 2 parts in INFO entry: ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes for each ALT allele, in the same order as listed">
+Warning: Expected at least 2 parts in INFO entry: ID=DP4,Number=4,Type=Integer,Description="Number of high-quality ref-forward , ref-reverse, alt-forward and alt-reverse bases">
+Warning: Expected at least 2 parts in INFO entry: ID=DP4,Number=4,Type=Integer,Description="Number of high-quality ref-forward , ref-reverse, alt-forward and alt-reverse bases">
+After filtering, kept 4 out of 4 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 4408312 out of a possible 4408312 Sites
+Run Time = 28.00 seconds
