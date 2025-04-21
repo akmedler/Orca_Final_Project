@@ -309,15 +309,26 @@ print(f"Done → {out_csv}")
 
 ## Hypothesis: Genes under positive selection in orcas are associated with specific social behaviors and hunting strategies, and that ecotypes with similiar behaviors will share common genetic traits. 
 
-## Approach: 
-#  1) Sequence alignment
-#          - Map sequencing reads to reference orca genome
-#  2) SNP calling 
-#          - Identify single nucleotide polymorphism (SNPs), insertions, & deletion (INDELs)
-#  3) VCF tools/files
-#          - Find genetic differences that may contribute to ecotype-specific traits
-#  4) Phylogenetic Analysis and PCA 
-#          - Visualize genomic variation among ecotypes
+# Citations
+
+ Haderlé, R., Bouveret, L., Serranito, B., Méndez- Fernandez, P., Adam, O., Penel, M., Couvat, J., Berre, I. L., & Jung, J. (2025). Identification of Two Common Bottlenose Dolphin (Tursiops truncatus) Ecotypes in the Guadeloupe Archipelago, Eastern Caribbean. Animals, 15(1), 108. https://doi.org/10.3390/ani15010108
+![image](https://github.com/user-attachments/assets/f1ad52e0-f82e-40f2-9969-12671eaecd0c)
+
+Terrapon, M., Kiszka, J. J., & Wagner, J. (2021). Observations of Killer Whale (Orcinus orca) Feeding Behavior in the Tropical Waters of the Northern Mozambique Channel Island of Mayotte, Southwest Indian Ocean. Aquatic Mammals, 47(2), 196–205. https://doi.org/10.1578/AM.47.2.2021.196
+![image](https://github.com/user-attachments/assets/35a22e7c-0d82-49b3-8009-c6a166d4ecf0)
+
+Orcinus orca - killer whale, orca. Orcinus orca - Killer Whale, Orca. Accessed April 20, 2025. http://www.environment.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=46#:~:text=Although%20groups%20of%20up%20to,(Dahlheim%20&%20Heyning%201999). 
+![image](https://github.com/user-attachments/assets/a60a456e-ada9-4c6b-b3e0-75b275d95f31)
+
+Hoelzel, A. R., Natoli, A., Dahlheim, M. E., Olavarria, C., Baird, R. W., & Black, N. A. (2002). Low Worldwide Genetic Diversity in the Killer Whale (Orcinus orca): Implications for Demographic History. Proceedings: Biological Sciences, 269(1499), 1467–1473. http://www.jstor.org/stable/3068118
+![image](https://github.com/user-attachments/assets/e9541704-5cbb-4817-b85b-5d25df2745b4)
+
+Jones, A., Bruce, E., Davies, K. P., Blewitt, M., & Sheehan, S. (2019). Assessing potential environmental influences on killer whale (Orcinus orca) distribution patterns in the Bremer Canyon, south-west Australia. Australian Geographer, 50(3), 381–405. https://doi.org/10.1080/00049182.2019.1602901
+![image](https://github.com/user-attachments/assets/a83d51b3-9ce4-4207-accb-82a5b0f68b1c)
+
+
+
+
 
 
 
